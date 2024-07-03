@@ -73,6 +73,7 @@ The trained model deployed in the IOT devices with no added support. Script cont
 python3 live_test.py
 ```
 video for deployment:
+https://github.com/mrinmoy-sadhukhan/FUGAN-model/assets/72397091/5754037a-4cb2-4278-9603-8043a5144002
 
 <video width="630" height="300" src="https://github.com/mrinmoy-sadhukhan/FUGAN-model/raw/main/device_test_downgrade.mp4"></video>
 
