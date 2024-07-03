@@ -74,7 +74,8 @@ python3 live_test.py
 ```
 video for deployment:
 
-![device_test.avi](./device_test.avi)
+<video width="630" height="300" src="https://github.com/mrinmoy-sadhukhan/FUGAN-model/raw/main/device_test.avi"></video>
+
 comparison of inference time in IOT devices and Laptop.
 
 |Inference time(in sec)|Jetson Device(8GB ram)|Laptop(16GB ram)|
