@@ -74,7 +74,7 @@ python3 live_test.py
 ```
 video for deployment:
 
-
+![device_test.avi](./device_test.avi)
 comparison of inference time in IOT devices and Laptop.
 
 |Inference time(in sec)|Jetson Device(8GB ram)|Laptop(16GB ram)|
