@@ -74,7 +74,7 @@ python3 live_test.py
 ```
 video for deployment:
 
-<video width="630" height="300" src="https://github.com/mrinmoy-sadhukhan/FUGAN-model/raw/main/device_test.avi"></video>
+<video width="630" height="300" src="https://github.com/mrinmoy-sadhukhan/FUGAN-model/raw/main/device_test_downgrade.mp4"></video>
 
 comparison of inference time in IOT devices and Laptop.
 
