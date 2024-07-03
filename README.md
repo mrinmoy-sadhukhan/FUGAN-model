@@ -32,6 +32,7 @@ script can be used with [Google colab](https://colab.research.google.com/) or An
 ![Generation of images at Different epoch](./qownnotes-media-HyjRqF.png)
 
 **Failure of model at regenration of face images**
+
 ![Failur of Regeneration](./qownnotes-media-NuibcI.png)
 
 **Comparison of generated face images. In the figure from left to right, images are masked face image, Ground Truth, Generated Face Image(ours), NIZAM UD DIN et al., Divyam Gupta et al., Hitoshi Yoshihashi et al.**
