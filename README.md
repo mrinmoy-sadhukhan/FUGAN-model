@@ -26,9 +26,11 @@ For testing and training both can be used from one ipynb script
 script can be used with [Google colab](https://colab.research.google.com/) or Anaconda or VS Code juoyter extension.
 ## Test Images
 **Example of regeneration task of facial part**
+
 ![Generation of Different Images](./qownnotes-media-wmzZVY.png)
 
 **Generation of images at different epochs**
+
 ![Generation of images at Different epoch](./qownnotes-media-HyjRqF.png)
 
 **Failure of model at regenration of face images**
