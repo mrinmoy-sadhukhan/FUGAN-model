@@ -74,9 +74,7 @@ python3 live_test.py
 ```
 video for deployment:
 
-<video width="320" height="240" controls>
-  <source src="device_test.avi" type="video/mp4">
-</video>
+<video width="630" height="300" src="device_test.avi"></video>
 
 comparison of inference time in IOT devices and Laptop.
 
