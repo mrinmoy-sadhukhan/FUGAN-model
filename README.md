@@ -23,7 +23,7 @@ python3 mask_gan_modified_final_pipeline_modified.py
 ```
 For testing and training both can be used from one ipynb script
 ``` Mask_GAN_modified.ipynb```
-script can be used with [Google colab](https://colab.research.google.com/) or Anaconda or VS Code juoyter extension.
+script can be used with [Google colab](https://colab.research.google.com/) or Anaconda or VS Code jupyter extension.
 ## Test Images
 **Example of regeneration task of facial part**
 
@@ -55,20 +55,20 @@ script can be used with [Google colab](https://colab.research.google.com/) or An
 |Divyam Gupta| 0.85752| 24.998| 5.64| 39.77|
 |Ours| **0.928**| **31.748** |4.4| **27.990**|
 
-In the below chart we provided no of trainable parameter along with non-trainable parameter is provided
+In the below chart, we provided no of trainable parameters along with non-trainable parameters is provided
 
 |Proposed Model| Trainable Parameter| Non trainable parameter|
 |--------------|:----:|:------:|
-|NIZAM UD DIN| | |
-|Akhil Kumar | ||
-|Farnaz Farahanipad | | |
-|Hitoshi Yoshihashi | | |
-|Divyam Gupta| | |
+|NIZAM UD DIN| 13253074|0 |
+|Akhil Kumar | 18856479|26387|
+|Farnaz Farahanipad | 17859626| 25648|
+|Hitoshi Yoshihashi | 16654262| 0|
+|Divyam Gupta| 16053603| 69695|
 |Ours| 17657891| 46587|
 
 
 ## IOT device deployment (Jetson Xavier nx)
-The trained model deployed in the IOT devices with no added support. Script contained code for integrating webcam which further helps in real image testing (Future work). Model can be accessed using: 
+The trained model was deployed to the IOT devices with no added support. The script contained code for integrating the webcam which further helps in real image testing (Future work). The model can be accessed using: 
 ``` 
 python3 live_test.py
 ```
