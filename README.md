@@ -82,3 +82,18 @@ comparison of inference time in IOT devices and Laptop.
 |-----------|:---------------:|----------:|
 |For first time run| 10.31|5.21|
 |For secon time run model loaded in memory|2.31|2.1|
+
+
+If you use this code or build upon this work, please cite our paper:
+
+```bibtex
+@inproceedings{10.1007/978-3-031-78172-8_8,
+  author    = {Sadhukhan, Mrinmoy and Bhattacharya, Indrajit and Dutta, Paramartha},
+  title     = {FUGAN: A GAN Based Facial Reconstructor for Accurate Unveiling of Hidden Faces},
+  booktitle = {Pattern Recognition: 27th International Conference, ICPR 2024, Proceedings, Part VI},
+  year      = {2024},
+  pages     = {114--129},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-031-78172-8_8},
+  url       = {https://doi.org/10.1007/978-3-031-78172-8_8}
+}
